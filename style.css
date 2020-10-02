@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500&display=swap');
+
+body{
+    font-family: 'Archivo', sans-serif;
+    background: url(code.jpg) no-repeat center center /cover;
+    height: 100vh;
+    color: #bdc3c7;
+    overflow: hidden;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    margin-top: 11%;
+    margin-left: 10%;
+}
+h1{
+    font-size: 4em;
+    margin: 1rem;
+}
+h2{
+    margin: 1rem;
+    font-size: 3em;
+}
+h3{
+    font-size: 1.5em;
+    margin-left: 1rem;
+    letter-spacing: 3px;
+}
+span{
+    color: aquamarine;
+}
+
